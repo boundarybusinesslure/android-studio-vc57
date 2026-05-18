@@ -1,4 +1,4 @@
-# 
+# elite Visual Studio for PC plugins is the best Visual Studio for PC plugins with C++-support and workspace-management. Safe, reliable, and optimized for maximum performance.
 
 
 
